@@ -47,6 +47,20 @@
 
 **Figure 2.** Cell‑type annotation map of the Human Liver Cell Atlas dataset showing the major annotated cell clusters, including Pericentral Hepatocyte, SERPINE1+ Hepatocyte, Periportal LSEC, CD8 T Cell, MAIT T Cell, and other liver‑related cell populations. 
 
+## Part E - Cell Types and Clusters
+
+| Requirements | Observation |
+|---------------|-------------|
+| **a. Cell type/cluster with the strongest visible expression** | Hepatocyte clusters (Pericentral Hepatocyte, SERPINE1+ Hepatocyte) show the highest F9 expression. |
+| **b. Another cell type/cluster with detectable expression** | UGT+ Hepatocyte cluster also shows some detectable expression. |
+| **c. Cell type/cluster with relatively low or undetected expression** | Immune clusters such as B Cell, T Cell, NK Cell, and Monocytes show very low or no expression. |
+| **d. Is the expression pattern broad or cell-type restricted?** | The expression pattern is cell-type restricted, mainly in hepatocytes. |
+| **e. Biological explanation** | F9 encodes Factor IX, a blood-clotting protein produced in the liver. It makes sense that hepatocytes express F9 strongly because they synthesize plasma proteins, while immune cells do not need this gene for their functions. |
+
+<img width="950" height="443" alt="image" src="https://github.com/user-attachments/assets/0f1bcfea-c231-4215-af7a-1bce5471ada6" />
+
+**Figure 3.** Gene expression map of the Human Liver Cell Atlas dataset showing annotated cell clusters. The F9 gene is mainly expressed in hepatocyte clusters such as Pericentral Hepatocyte and SERPINE1+ Hepatocyte, while immune clusters like B Cells and T Cells show little or no expression. 
+
 
 
 
