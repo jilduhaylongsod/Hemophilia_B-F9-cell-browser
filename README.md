@@ -21,4 +21,4 @@
 | **Dataset URL** | https://cells.ucsc.edu/?ds=human-liver-cell-atlas+all-cells |
 
 <img width="954" height="451" alt="image" src="https://github.com/user-attachments/assets/abb9179b-c89e-47e3-ad99-3a64c53ad6c9" />
-**Figure 1. ** Human Liver Cell Atlas showing the different cell types and clusters in the All Cells dataset.
+**Figure 1.** Human Liver Cell Atlas showing the different cell types and clusters in the All Cells dataset.
