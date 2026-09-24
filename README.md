@@ -26,9 +26,9 @@
 
 ## Part C - Understanding the Cell Map
 
-| **Item/Observation** | 
+| **Item** | **Observation** |
 |---|---|
 | **Visualization** | UMAP |
 | **What does one dot represent?** | One individual cell measured in the single-cell dataset. |
-| **What do the clusters represent?** | Groups of cells with similar gene-expression profiles, representing different cell types or cell populations in the human liver. |
+| **What do the clusters represent?** | Groups of cells with similar gene-expression profiles, representing different cell types or cell populations in the liver. |
 | **Cell-type/cluster labels** | Pericentral Hepatocyte, B Cell, MAIT T Cell |
