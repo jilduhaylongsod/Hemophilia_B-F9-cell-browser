@@ -32,3 +32,21 @@
 | **What does one dot represent?** | One individual cell measured in the single-cell dataset. |
 | **What do the clusters represent?** | Groups of cells with similar gene-expression profiles, representing different cell types or cell populations in the liver. |
 | **Cell-type/cluster labels** | Pericentral Hepatocyte, B Cell, MAIT T Cell |
+
+## Part D - Assigned Gene Expression
+
+| Part | Answer |
+|------|--------|
+| **a. Assigned gene symbol** | F9 |
+| **b. Dataset used** | Human Liver Cell Atlas – All Cells |
+| **c. Is expression widespread, restricted, or low/undetected?** | Restricted – mainly in liver cells, not widespread |
+| **d. Which cluster(s) appear to contain cells with stronger expression?** | Hepatocyte clusters (Pericentral Hepatocyte, SERPINE1+ Hepatocyte) |
+| **e. Which cluster(s) appear to contain little or no detectable expression?** | Immune clusters (B Cell, T Cell, NK Cell, Monocytes) |
+
+<img width="605" height="445" alt="image" src="https://github.com/user-attachments/assets/d7e8737b-997d-457d-a836-630757c7f953" />
+
+**Figure 2.** Cell‑type annotation map of the Human Liver Cell Atlas dataset showing the major annotated cell clusters, including Pericentral Hepatocyte, SERPINE1+ Hepatocyte, Periportal LSEC, CD8 T Cell, MAIT T Cell, and other liver‑related cell populations. The F9 gene expression is mainly observed in hepatocyte clusters, consistent with its role in producing the blood‑clotting protein Factor IX.
+
+
+
+
