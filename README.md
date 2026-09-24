@@ -23,3 +23,12 @@
 <img width="954" height="451" alt="image" src="https://github.com/user-attachments/assets/abb9179b-c89e-47e3-ad99-3a64c53ad6c9" />
 
 **Figure 1.** Human Liver Cell Atlas showing the different cell types and clusters in the All Cells dataset.
+
+## Part C - Understanding the Cell Map
+
+| **Item/Observation** | 
+|---|---|
+| **Visualization** | UMAP |
+| **What does one dot represent?** | One individual cell measured in the single-cell dataset. |
+| **What do the clusters represent?** | Groups of cells with similar gene-expression profiles, representing different cell types or cell populations in the human liver. |
+| **Cell-type/cluster labels** | Pericentral Hepatocyte, B Cell, MAIT T Cell |
