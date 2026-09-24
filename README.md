@@ -43,9 +43,9 @@
 | **d. Which cluster(s) appear to contain cells with stronger expression?** | Hepatocyte clusters (Pericentral Hepatocyte, SERPINE1+ Hepatocyte) |
 | **e. Which cluster(s) appear to contain little or no detectable expression?** | Immune clusters (B Cell, T Cell, NK Cell, Monocytes) |
 
-<img width="605" height="445" alt="image" src="https://github.com/user-attachments/assets/d7e8737b-997d-457d-a836-630757c7f953" />
+<img width="688" height="493" alt="image" src="https://github.com/user-attachments/assets/b62334a3-c9fa-4b85-a38b-22c6ad62cd58" />
 
-**Figure 2.** Cell‑type annotation map of the Human Liver Cell Atlas dataset showing the major annotated cell clusters, including Pericentral Hepatocyte, SERPINE1+ Hepatocyte, Periportal LSEC, CD8 T Cell, MAIT T Cell, and other liver‑related cell populations. The F9 gene expression is mainly observed in hepatocyte clusters, consistent with its role in producing the blood‑clotting protein Factor IX.
+**Figure 2.** Cell‑type annotation map of the Human Liver Cell Atlas dataset showing the major annotated cell clusters, including Pericentral Hepatocyte, SERPINE1+ Hepatocyte, Periportal LSEC, CD8 T Cell, MAIT T Cell, and other liver‑related cell populations. 
 
 
 
