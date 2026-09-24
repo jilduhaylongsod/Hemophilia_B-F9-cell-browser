@@ -61,6 +61,16 @@
 
 **Figure 3.** Gene expression map of the Human Liver Cell Atlas dataset showing annotated cell clusters. The F9 gene is mainly expressed in hepatocyte clusters such as Pericentral Hepatocyte and SERPINE1+ Hepatocyte, while immune clusters like B Cells and T Cells show little or no expression. 
 
+## Part F – Expression Plot
 
+| Question | Answer |
+|-----------|---------|
+| **a. Which cells/cluster did you select?** | Pericentral Hepatocyte and SERPINE1+ Hepatocyte clusters (both show strong F9 expression). |
+| **b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?** | Higher expression compared to other clusters, especially immune cells. |
+| **c. What does the expression plot add that was not obvious from the UMAP/t‑SNE map?** | The dot plot shows both the average expression and the proportion of cells expressing F9, confirming that hepatocytes have consistently high expression while most other cell types have near‑zero levels. |
+
+<img width="427" height="439" alt="image" src="https://github.com/user-attachments/assets/985c8ca6-5213-4e3c-91a8-cd76e4752ea1" />
+
+**Figure 4.** Dot plot showing TNFRSF9 (F9) gene expression across liver cell types in the Human Liver Cell Atlas. The darker color and larger dot size in hepatocyte clusters indicate higher average expression and a greater proportion of cells expressing F9, while immune and endothelial cells show minimal expression. 
 
 
