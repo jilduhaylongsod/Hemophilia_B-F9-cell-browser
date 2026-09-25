@@ -133,8 +133,8 @@ The most interesting observation was that F9 was detected in the Pericentral Hep
 
 ## References and Links
 
-UCSC Cell browser. (n.d.). https://cells.ucsc.edu/?ds=human-liver-cell-atlas
+UCSC Cell Browser. (n.d.). Human Liver Cell Atlas [Single-cell dataset]. University of California, Santa Cruz. https://cells.ucsc.edu/?ds=human-liver-cell-atlas
 
-UCSC Cell browser. (n.d.-a). https://cells.ucsc.edu/?ds=human-liver-cell-atlas%2Ball-cells 
+UCSC Cell Browser. (n.d.). Human Liver Cell Atlas: All cells [Single-cell dataset]. University of California, Santa Cruz. https://cells.ucsc.edu/?ds=human-liver-cell-atlas+all-cells
 
 U.S. National Library of Medicine. (n.d.-b). Vcv000010568.2 - clinvar - NCBI. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/clinvar/variation/10568/
