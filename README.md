@@ -71,6 +71,6 @@
 
 <img width="439" height="394" alt="image" src="https://github.com/user-attachments/assets/d13a57f3-32fb-4900-8869-d8b52e564425" />
 
-**Figure 4.** Dot plot showing TNFRSF9 (F9) gene expression across liver cell types in the Human Liver Cell Atlas. The darker color and larger dot size in hepatocyte clusters indicate higher average expression and a greater proportion of cells expressing F9, while immune and endothelial cells show minimal expression. 
+**Figure 4.** Dot plot showing F9 gene expression across annotated liver cell types. The Pericentral Hepatocyte cluster displays the highest average expression and proportion of expressing cells, followed by moderate expression in Periportal and Ribosomal+ Hepatocytes.
 
 
