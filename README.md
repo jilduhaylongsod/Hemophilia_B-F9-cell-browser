@@ -65,11 +65,11 @@
 
 | Question | Answer |
 |-----------|---------|
-| **a. Which cells/cluster did you select?** | Pericentral Hepatocyte and SERPINE1+ Hepatocyte clusters (both show strong F9 expression). |
-| **b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?** | Higher expression compared to other clusters, especially immune cells. |
-| **c. What does the expression plot add that was not obvious from the UMAP/t‑SNE map?** | The dot plot shows both the average expression and the proportion of cells expressing F9, confirming that hepatocytes have consistently high expression while most other cell types have near‑zero levels. |
+| **a. Which cells/cluster did you select?** | Pericentral Hepatocytes. |
+| **b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?** | The Pericentral Hepatocytes show similar expression overall compared with the nearby hepatocyte groups based on the displayed plot. |
+| **c. What does the expression plot add that was not obvious from the UMAP/t‑SNE map?** | The expression plot shows how strongly the gene is expressed within the selected cell group, while the UMAP mainly shows how the cells are grouped and related to each other. |
 
-<img width="343" height="375" alt="image" src="https://github.com/user-attachments/assets/cf5a9d73-2202-4744-b608-ef5a3d2dd111" />
+<img width="439" height="394" alt="image" src="https://github.com/user-attachments/assets/d13a57f3-32fb-4900-8869-d8b52e564425" />
 
 **Figure 4.** Dot plot showing TNFRSF9 (F9) gene expression across liver cell types in the Human Liver Cell Atlas. The darker color and larger dot size in hepatocyte clusters indicate higher average expression and a greater proportion of cells expressing F9, while immune and endothelial cells show minimal expression. 
 
