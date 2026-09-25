@@ -73,4 +73,68 @@
 
 **Figure 4.** Dot plot showing F9 gene expression across annotated liver cell types. The Pericentral Hepatocyte cluster displays the highest average expression and proportion of expressing cells, followed by moderate expression in Periportal and Ribosomal+ Hepatocytes.
 
+## Part G - Marker Genes
 
+| **Item** | **Answer** |
+|---|---|
+| **a. Cluster/cell type examined** | Pericentral Hepatocyte |
+| **b. Marker gene 1** | CYP3A4 |
+| **c. Marker gene 2** | CYP2E1 |
+| **d. Marker gene 3** | ADH4 |
+| **e. Does the assigned gene behave like a cell-type marker?** | No. F9 is the assigned disease-associated gene, but it is not listed among the marker genes shown for the Pericentral Hepatocyte cluster. Therefore, F9 does not appear to uniquely characterize the Pericentral Hepatocyte cell type in this dataset. |
+
+<img width="860" height="383" alt="image" src="https://github.com/user-attachments/assets/b6c6c0a4-6930-4412-8b33-856a248b91aa" />
+
+**Figure 5.** Table showing marker genes for the Pericentral Hepatocyte cluster. Genes such as CYP3A4, CYP2E1, ADH4, GLUL, and BCHE have positive marker scores, indicating strong association with this hepatocyte subtype. 
+
+## Part H - Disease Gene vs. Marker Gene
+
+| **Item** | **Answer** |
+|---|---|
+| **a. Assigned disease gene** | F9 |
+| **b. Marker gene** | CYP3A4 |
+| **c. Which gene shows a more cell-type-restricted expression pattern?** | CYP3A4 |
+| **d. Which gene appears more broadly expressed?** | F9 |
+| **e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?** | A cell-type marker gene such as CYP3A4 shows a more characteristic expression pattern in specific cell populations, particularly hepatocyte-related cells such as Pericentral Hepatocytes. A disease-associated gene such as F9 can be biologically relevant without being specific to one cell type. Therefore, disease-associated genes and cell-type marker genes can have different expression patterns and purposes. |
+
+## Part I  - Connection to Genome Browser and ClinVar
+
+**1. On which chromosome is F9 located?**
+F9 is located on the X chromosome.
+
+**2. What disease-associated variant did you examine previously?**
+F9 c.52T>C (p.Cys18Arg) — a single-nucleotide variant in the F9 gene that causes a Cys18Arg (C18R) protein change.
+
+3. In the current Cell Browser dataset, which cell type(s) express F9?
+F9 was detected in the Pericentral Hepatocyte cell type.
+
+4. Does the observed cell expression make biological sense based on what you know about F9?
+Yes. F9 is associated with Hemophilia B, and its expression in liver cells makes sense because the liver is involved in producing blood-clotting factors. The expression of F9 in Pericentral Hepatocytes is therefore consistent with its biological function.
+
+5. Can this single Cell Browser dataset prove that F9 causes Hemophilia B? Why or why not?
+No. The Cell Browser only shows where F9 is expressed in the selected dataset. It cannot prove that F9 causes Hemophilia B because other genetic, clinical, and functional evidence is needed.
+
+## Part J -  Reflection
+
+**1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?**
+The UCSC Cell Browser showed me where F9 is expressed at the single-cell level and which cell types express it. The Genome Browser mainly showed the gene’s location and structure in the genome.
+
+**2. Why can the same gene have different expression levels among different cell types?**
+Different cell types have different functions, so they do not need to use the same genes at the same level. For example, F9 showed expression in liver cells because the liver is involved in producing blood-clotting factors.
+
+**3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?**
+Zero or low expression does not always mean that the gene is completely inactive. It can be affected by the type of tissue, the number of cells analyzed, and the method used to collect the data.
+
+**4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?**
+Combining these types of information gives a better understanding of how a gene may be related to a disease. For F9, I could connect its location on the X chromosome, the c.52T>C (p.Cys18Arg) variant, and its expression in liver cells.
+
+**5. What was the most interesting observation you made about your assigned gene?**
+The most interesting observation was that F9 was detected in the Pericentral Hepatocyte cell type. This made sense because F9 is involved in blood clotting and is produced mainly by liver cells.
+
+## References and Links
+
+UCSC Cell browser. (n.d.). https://cells.ucsc.edu/?ds=human-liver-cell-atlas
+
+UCSC Cell browser. (n.d.-a). https://cells.ucsc.edu/?ds=human-liver-cell-atlas%2Ball-cells 
+
+U.S. National Library of Medicine. (n.d.-b). Vcv000010568.2 - clinvar - NCBI. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/clinvar/variation/10568/
