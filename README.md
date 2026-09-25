@@ -57,7 +57,7 @@
 | **d. Is the expression pattern broad or cell-type restricted?** | The expression pattern is cell-type restricted, mainly in hepatocytes. |
 | **e. Biological explanation** | F9 encodes Factor IX, a blood-clotting protein produced in the liver. It makes sense that hepatocytes express F9 strongly because they synthesize plasma proteins, while immune cells do not need this gene for their functions. |
 
-<img width="950" height="443" alt="image" src="https://github.com/user-attachments/assets/0f1bcfea-c231-4215-af7a-1bce5471ada6" />
+<img width="956" height="442" alt="image" src="https://github.com/user-attachments/assets/def13a54-9110-4492-a9e0-427250a1bba6" />
 
 **Figure 3.** Gene expression map of the Human Liver Cell Atlas dataset showing annotated cell clusters. The F9 gene is mainly expressed in hepatocyte clusters such as Pericentral Hepatocyte and SERPINE1+ Hepatocyte, while immune clusters like B Cells and T Cells show little or no expression. 
 
